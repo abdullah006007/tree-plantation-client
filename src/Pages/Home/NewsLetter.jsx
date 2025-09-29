@@ -22,7 +22,7 @@ const NewsLetter = () => {
               type="button"
               className="bg-green-600 text-white py-3 px-6 rounded-md hover:bg-green-700 transition text-sm sm:text-base font-medium"
             >
-              Subscribe
+              Subscribe now
             </button>
           </form>
           <p className="text-center text-xs sm:text-sm text-gray-500 mt-4">
