@@ -72,7 +72,7 @@ const Features = () => {
         </div>
         <div className="text-center mt-8 sm:mt-12">
           <button
-            onClick={() => navigate('/signup')}
+            onClick={() => navigate('/register')}
             className="bg-green-600 text-white py-2 px-6 sm:py-3 sm:px-8 rounded-md hover:bg-green-700 transition text-base sm:text-lg font-semibold"
           >
             Get Started Today
