@@ -39,7 +39,7 @@ const CreateEvent = () => {
     try {
       const response = await axiosInstance.post('/events', eventData);
       toast.success('Event created successfully!');
-      setTimeout(() => navigate('/upcoming-events'), 1500);
+      setTimeout(() => navigate('/upcoming-event'), 1500);
     } catch (error) {
       console.error('Error creating event:', error);
       if (error.response?.data?.error) {
