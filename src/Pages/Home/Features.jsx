@@ -11,7 +11,7 @@ const Features = () => {
       icon: '🌳',
       color: 'bg-green-100',
       buttonText: 'Start Creating',
-      buttonPath: '/create-event',
+      buttonPath: '/dashboard/create-event',
     },
     {
       title: 'Manage Your Events',
