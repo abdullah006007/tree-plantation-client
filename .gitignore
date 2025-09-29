@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Logs
 logs
 *.log
@@ -26,4 +26,4 @@ dist-ssr
 =======
 .env
 node_modules
->>>>>>> e63bab47db33d9a7a4ebe0491dc0d1f595692035
+
