@@ -26,7 +26,7 @@ const NewsLetter = () => {
             </button>
           </form>
           <p className="text-center text-xs sm:text-sm text-gray-500 mt-4">
-            We respect your privacy. Unsubscribe at any time.
+            We respect your privacy. Unsubscribe at any time
           </p>
         </div>
       </div>
