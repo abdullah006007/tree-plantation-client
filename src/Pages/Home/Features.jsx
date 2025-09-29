@@ -27,7 +27,7 @@ const Features = () => {
       icon: '🤝',
       color: 'bg-yellow-100',
       buttonText: 'Explore Events',
-      buttonPath: '/events/upcoming',
+      buttonPath: '/upcoming-event',
     },
     {
       title: 'Secure User Authentication',
