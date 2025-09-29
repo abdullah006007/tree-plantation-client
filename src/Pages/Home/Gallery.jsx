@@ -23,13 +23,7 @@ const Gallery = () => {
       imageUrl: "https://www.socialtables.com/wp-content/uploads/2016/10/iStock-540095978.jpg",
       caption: "Collecting supplies for local communities in need.",
     },
-    {
-      id: 4,
-      title: "Urban Garden Workshop",
-      eventType: "Other",
-      imageUrl: "https://www.urbangardenworkshop.com/wp-content/uploads/2013/10/Raised-Bed-Redwood-Boxes-e1525228473496.jpg",
-      caption: "Learning sustainable gardening in the city.",
-    },
+    
   ];
 
   return (
