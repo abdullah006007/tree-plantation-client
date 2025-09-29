@@ -46,7 +46,7 @@ const Features = () => {
           Discover the Power of TreePlant
         </h1>
         <p className="text-center text-sm sm:text-base md:text-lg text-gray-600 mb-8 sm:mb-12 max-w-3xl mx-auto">
-          Join our community to create, manage, and participate in impactful events that make a difference.
+          Join our community to create, manage, and participate in impactful events that make a difference
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
           {features.map((feature, index) => (
