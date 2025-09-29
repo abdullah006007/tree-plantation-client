@@ -19,7 +19,7 @@ const Features = () => {
       icon: '📋',
       color: 'bg-blue-100',
       buttonText: 'Manage Now',
-      buttonPath: '/manage-events',
+      buttonPath: '/dashboard/manage-event',
     },
     {
       title: 'Join Community Events',
