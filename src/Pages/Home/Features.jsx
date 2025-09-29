@@ -30,7 +30,7 @@ const Features = () => {
       buttonPath: '/upcoming-event',
     },
     {
-      title: 'Secure User Authentication',
+      title: 'Secure Authentication',
       description: 'Log in securely with Firebase to access personalized features, ensuring your events and participation are tied to your account.',
       icon: '🔒',
       color: 'bg-purple-100',
