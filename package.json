@@ -1,5 +1,5 @@
 {
-<<<<<<< HEAD
+
   "name": "tree-plantation-client",
   "private": true,
   "version": "0.0.0",
@@ -35,22 +35,7 @@
     "eslint-plugin-react-refresh": "^0.4.20",
     "globals": "^16.4.0",
     "vite": "^7.1.7"
-=======
-  "name": "tree-plantation-server",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^17.2.2",
-    "express": "^5.1.0",
-    "mongodb": "^6.20.0"
->>>>>>> e63bab47db33d9a7a4ebe0491dc0d1f595692035
   }
+  
+  
 }
