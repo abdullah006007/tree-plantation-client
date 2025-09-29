@@ -8,7 +8,7 @@ const NewsLetter = () => {
           Join Our Newsletter
         </h1>
         <p className="text-center text-sm sm:text-base md:text-lg text-gray-600 mb-8 sm:mb-12 max-w-3xl mx-auto">
-          Stay updated with the latest community events, tree planting initiatives, and eco-friendly tips from TreePlant.
+          Stay updated with the latest community events, tree planting initiatives, and eco-friendly tips from TreePlant
         </p>
         <div className="bg-white rounded-lg shadow-lg p-6 sm:p-8 max-w-lg mx-auto">
           <form className="flex flex-col sm:flex-row gap-4">
